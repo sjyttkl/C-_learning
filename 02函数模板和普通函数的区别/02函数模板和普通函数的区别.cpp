@@ -5,7 +5,7 @@ using namespace std;
 
 
 //函数模板的参数必须一一对应
-template<class T> 
+template<class T>
 int MyAdd(T a, T b)
 {
 	cout << "模板函数" << endl;
@@ -26,7 +26,7 @@ void Print(T a) {
 
 }
 template<class T>
-void Print(T a,T b) {
+void Print(T a, T b) {
 
 }
 
