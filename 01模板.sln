@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01模板", "01模板\01模板.vcxproj", "{856886F2-90CD-492E-B1DA-6C81F7857DD4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02函数模板和普通函数的区别", "02函数模板和普通函数的区别\02函数模板和普通函数的区别.vcxproj", "{D2206D0D-5411-40CD-AE08-1A15961E3960}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{856886F2-90CD-492E-B1DA-6C81F7857DD4}.Release|x64.Build.0 = Release|x64
 		{856886F2-90CD-492E-B1DA-6C81F7857DD4}.Release|x86.ActiveCfg = Release|Win32
 		{856886F2-90CD-492E-B1DA-6C81F7857DD4}.Release|x86.Build.0 = Release|Win32
+		{D2206D0D-5411-40CD-AE08-1A15961E3960}.Debug|x64.ActiveCfg = Debug|x64
+		{D2206D0D-5411-40CD-AE08-1A15961E3960}.Debug|x64.Build.0 = Debug|x64
+		{D2206D0D-5411-40CD-AE08-1A15961E3960}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2206D0D-5411-40CD-AE08-1A15961E3960}.Debug|x86.Build.0 = Debug|Win32
+		{D2206D0D-5411-40CD-AE08-1A15961E3960}.Release|x64.ActiveCfg = Release|x64
+		{D2206D0D-5411-40CD-AE08-1A15961E3960}.Release|x64.Build.0 = Release|x64
+		{D2206D0D-5411-40CD-AE08-1A15961E3960}.Release|x86.ActiveCfg = Release|Win32
+		{D2206D0D-5411-40CD-AE08-1A15961E3960}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
