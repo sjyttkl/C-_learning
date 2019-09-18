@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02函数模板和普通函数的区别.cpp">
+    <ClCompile Include="03类模板.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
