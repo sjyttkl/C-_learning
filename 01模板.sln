@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10 类模板h和cpp分离�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11 类模板碰到static成员", "11 类模板碰到static成员\11 类模板碰到static成员.vcxproj", "{64FD6C44-CC83-49C8-BE76-7698996954F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12 MyArray", "12 MyArray\12 MyArray.vcxproj", "{84E960E4-D08B-4D1D-9D00-E67B80F6045D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{64FD6C44-CC83-49C8-BE76-7698996954F9}.Release|x64.Build.0 = Release|x64
 		{64FD6C44-CC83-49C8-BE76-7698996954F9}.Release|x86.ActiveCfg = Release|Win32
 		{64FD6C44-CC83-49C8-BE76-7698996954F9}.Release|x86.Build.0 = Release|Win32
+		{84E960E4-D08B-4D1D-9D00-E67B80F6045D}.Debug|x64.ActiveCfg = Debug|x64
+		{84E960E4-D08B-4D1D-9D00-E67B80F6045D}.Debug|x64.Build.0 = Debug|x64
+		{84E960E4-D08B-4D1D-9D00-E67B80F6045D}.Debug|x86.ActiveCfg = Debug|Win32
+		{84E960E4-D08B-4D1D-9D00-E67B80F6045D}.Debug|x86.Build.0 = Debug|Win32
+		{84E960E4-D08B-4D1D-9D00-E67B80F6045D}.Release|x64.ActiveCfg = Release|x64
+		{84E960E4-D08B-4D1D-9D00-E67B80F6045D}.Release|x64.Build.0 = Release|x64
+		{84E960E4-D08B-4D1D-9D00-E67B80F6045D}.Release|x86.ActiveCfg = Release|Win32
+		{84E960E4-D08B-4D1D-9D00-E67B80F6045D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
