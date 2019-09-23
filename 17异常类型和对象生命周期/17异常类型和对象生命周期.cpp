@@ -1,4 +1,8 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
+#include<stdexcept>
+#include <cstring>
+#include <string.h>
 
 using namespace std;
 

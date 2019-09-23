@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="E:\BaiduNetdiskDownload\C++学习文档\第2阶段实战-通讯录管理资料\通讯录管理系统资料\通讯录管理系统讲义\通讯录管理系统.md">
-      <Filter>资源文件</Filter>
-    </None>
+    <ClCompile Include="18标准异常库举例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
