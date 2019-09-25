@@ -14,26 +14,4 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="2new操作符.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1C++核心编程.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="3递增运算符重载.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="4虚析构和纯虚析构.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="5电脑组装.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="E:\BaiduNetdiskDownload\C++学习文档\第3阶段-C++核心编程 资料\讲义\C++核心编程.md">
-      <Filter>资源文件</Filter>
-    </None>
-  </ItemGroup>
 </Project>

@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22 容器算法那迭代器
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23 STL hello world程序", "23 STL hello world程序\23 STL hello world程序.vcxproj", "{ED35B798-AD7C-4E73-9491-72615AAD5443}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.22基于多态的职工管理系统", "0.22基于多态的职工管理系统\0.22基于多态的职工管理系统.vcxproj", "{38042345-9624-47C7-BB5F-018DEB145AB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{ED35B798-AD7C-4E73-9491-72615AAD5443}.Release|x64.Build.0 = Release|x64
 		{ED35B798-AD7C-4E73-9491-72615AAD5443}.Release|x86.ActiveCfg = Release|Win32
 		{ED35B798-AD7C-4E73-9491-72615AAD5443}.Release|x86.Build.0 = Release|Win32
+		{38042345-9624-47C7-BB5F-018DEB145AB5}.Debug|x64.ActiveCfg = Debug|x64
+		{38042345-9624-47C7-BB5F-018DEB145AB5}.Debug|x64.Build.0 = Debug|x64
+		{38042345-9624-47C7-BB5F-018DEB145AB5}.Debug|x86.ActiveCfg = Debug|Win32
+		{38042345-9624-47C7-BB5F-018DEB145AB5}.Debug|x86.Build.0 = Debug|Win32
+		{38042345-9624-47C7-BB5F-018DEB145AB5}.Release|x64.ActiveCfg = Release|x64
+		{38042345-9624-47C7-BB5F-018DEB145AB5}.Release|x64.Build.0 = Release|x64
+		{38042345-9624-47C7-BB5F-018DEB145AB5}.Release|x86.ActiveCfg = Release|Win32
+		{38042345-9624-47C7-BB5F-018DEB145AB5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
