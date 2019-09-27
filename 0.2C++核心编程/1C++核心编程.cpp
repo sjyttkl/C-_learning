@@ -18,10 +18,11 @@ int  func(int a, int b,int c )
 typedef int(MY_FUNC)(int, int);
 
 //2. 定义一个指向 函数类型的指针类型
-typedef int(*MY_FUNC_P)(int, int);
+typedef int (*MY_FUNC_P)(int, int);
 
 int main2(void)
 {
+	
 	//1.
 	MY_FUNC *fp = NULL;
 	fp = func;

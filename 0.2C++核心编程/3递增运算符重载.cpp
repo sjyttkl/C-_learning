@@ -1,5 +1,17 @@
 #include<iostream>
 using namespace  std;
+
+//1 。定义一种函数类型
+typedef int(MY_FUNC)(int, int);
+
+//2. 定义一个指向 函数类型的指针类型
+typedef int(*MY_FUNC_P)(int, int);
+
+int(*MY_FUNC2)(int, int);
+
+
+
+
 class MyInteger {
 public:
 	friend ostream & operator<<(ostream &out, MyInteger myint);
