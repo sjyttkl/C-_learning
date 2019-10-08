@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "33 内建函数对象", "33
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34 函数对象适配器", "34 函数对象适配器\34 函数对象适配器.vcxproj", "{E27FEF0B-4DF4-48E7-A34F-19C5715EC23F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35常用遍历算法", "35常用遍历算法\35常用遍历算法.vcxproj", "{52B42DAF-F1B1-4AEA-8887-3837B4FAD893}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -401,6 +403,14 @@ Global
 		{E27FEF0B-4DF4-48E7-A34F-19C5715EC23F}.Release|x64.Build.0 = Release|x64
 		{E27FEF0B-4DF4-48E7-A34F-19C5715EC23F}.Release|x86.ActiveCfg = Release|Win32
 		{E27FEF0B-4DF4-48E7-A34F-19C5715EC23F}.Release|x86.Build.0 = Release|Win32
+		{52B42DAF-F1B1-4AEA-8887-3837B4FAD893}.Debug|x64.ActiveCfg = Debug|x64
+		{52B42DAF-F1B1-4AEA-8887-3837B4FAD893}.Debug|x64.Build.0 = Debug|x64
+		{52B42DAF-F1B1-4AEA-8887-3837B4FAD893}.Debug|x86.ActiveCfg = Debug|Win32
+		{52B42DAF-F1B1-4AEA-8887-3837B4FAD893}.Debug|x86.Build.0 = Debug|Win32
+		{52B42DAF-F1B1-4AEA-8887-3837B4FAD893}.Release|x64.ActiveCfg = Release|x64
+		{52B42DAF-F1B1-4AEA-8887-3837B4FAD893}.Release|x64.Build.0 = Release|x64
+		{52B42DAF-F1B1-4AEA-8887-3837B4FAD893}.Release|x86.ActiveCfg = Release|Win32
+		{52B42DAF-F1B1-4AEA-8887-3837B4FAD893}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
